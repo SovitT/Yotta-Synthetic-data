@@ -1,4 +1,4 @@
-# 📊 YottaFlex FDE Challenge: Technical System Architecture & Documentation
+# 📊Challenge: Technical System Architecture & Documentation
 
 ## 1. Executive Summary & Challenge Overview
 
